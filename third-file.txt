@@ -1,1 +1,3 @@
-third file -
+Third file 
+
+Add new line in Third File 
